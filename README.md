@@ -2,4 +2,8 @@
 
 hello world!
 
+<<<<<<< HEAD
 here is main
+=======
+here is dev branch
+>>>>>>> dev
